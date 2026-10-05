@@ -18,5 +18,5 @@ I'm also studying information security (Santander Open Academy) and practicing o
 
 **Availability:** 20+ hours a week, Brasília time (UTC-3). Open to freelance work.
 
-**Contact:** matoso@meridionalcapital.com.br
-**Linkedin:** https://www.linkedin.com/in/perito-judicial-rodrigo-matoso/?isSelfProfile=true
+**Contact:** rmatoso.dev@gmail.com
+**Linkedin:** https://www.linkedin.com/in/perito-judicial-rodrigo-matoso/
